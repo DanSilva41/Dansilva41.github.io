@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>blog/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="blog/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>blog/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="blog/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>blog/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="blog/fr/tags/"
                 />
   </url>
   
