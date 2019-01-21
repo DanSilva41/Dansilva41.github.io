@@ -3,118 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>blog/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/awesomeness/</loc>
+    <loc>/post/awesomeness/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/wonderful/</loc>
+    <loc>/post/wonderful/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/getting-started-with-hugo/</loc>
+    <loc>/post/getting-started-with-hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/hugo-template-primer/</loc>
+    <loc>/post/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/migrate-to-hugo-from-jekyll/</loc>
+    <loc>/post/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/post/colenak/</loc>
+    <loc>/post/colenak/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog/</loc>
+    <loc>/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/categories/food/</loc>
+    <loc>/categories/food/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>blog/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
