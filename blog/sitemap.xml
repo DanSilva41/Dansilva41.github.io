@@ -1,18 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>blog/en/sitemap.xml</loc>
-		
-	   	<lastmod>2016-04-09T16:50:16+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>blog/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2016-04-09T16:50:16+02:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>blog/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/awesomeness/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/wonderful/</loc>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/about/</loc>
+    <lastmod>2015-04-14T22:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/getting-started-with-hugo/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/post/colenak/</loc>
+    <lastmod>2013-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/development/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/categories/development/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/categories/food/</loc>
+    <lastmod>2013-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/go/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/golang/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/categories/golang/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/hugo/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
