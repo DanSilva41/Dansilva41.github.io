@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>/blog/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/awesomeness/</loc>
+    <loc>/blog/post/awesomeness/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/wonderful/</loc>
+    <loc>/blog/post/wonderful/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,22 +23,22 @@
   </url>
   
   <url>
-    <loc>/post/getting-started-with-hugo/</loc>
+    <loc>/blog/post/getting-started-with-hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hugo-template-primer/</loc>
+    <loc>/blog/post/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/migrate-to-hugo-from-jekyll/</loc>
+    <loc>/blog/post/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/colenak/</loc>
+    <loc>/blog/post/colenak/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
