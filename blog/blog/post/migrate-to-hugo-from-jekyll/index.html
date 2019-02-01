@@ -325,13 +325,15 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
     <div class="read-next-card-content">
       
         <ul>
-          <li><a href="/blog/post/awesomeness/">Awesomeness</a></li>            
+          <li><a href="/blog/post/wonderful/">Wonderful</a></li>            
         
           <li><a href="/blog/post/colenak/">Colenak</a></li>            
         
-          <li><a href="/blog/post/wonderful/">Wonderful</a></li>            
+                      
         
-          <li><a href="/blog/post/creating-a-new-theme/">Creating a New Theme</a></li>            
+          <li><a href="/blog/post/hugo-template-primer/">(Hu)go Template Primer</a></li>            
+        
+          <li><a href="/blog/post/awesomeness/">Awesomeness</a></li>            
         </ul>
     </div>
     <footer class="read-next-card-footer">
@@ -349,7 +351,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
     
 
     <div class="post-card-content">
-      <a class="post-card-content-link" href="/blog/post/hugo-template-primer/">
+      <a class="post-card-content-link" href="/blog/blog/post/:slug/">
           <header class="post-card-header">
               <span class="post-card-tags">
               #go 
@@ -383,7 +385,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
     
 
     <div class="post-card-content">
-      <a class="post-card-content-link" href="/blog/post/colenak/">
+      <a class="post-card-content-link" href="/blog/blog/post/:slug/">
           <header class="post-card-header">
               
               <h2 class="post-card-title">Colenak</h2>
