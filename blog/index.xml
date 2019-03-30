@@ -13,40 +13,40 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/posts/post/creating-a-new-theme/</link>
+      <link>/blog/posts/post/creating-a-new-theme/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/creating-a-new-theme/</guid>
+      <guid>/blog/posts/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Awesomeness</title>
-      <link>/posts/post/awesomeness/</link>
+      <link>/blog/posts/post/awesomeness/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/awesomeness/</guid>
+      <guid>/blog/posts/post/awesomeness/</guid>
       <description>Introdução This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>/posts/post/first-post/</link>
+      <link>/blog/posts/post/first-post/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/first-post/</guid>
+      <guid>/blog/posts/post/first-post/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Wonderful</title>
-      <link>/posts/post/wonderful/</link>
+      <link>/blog/posts/post/wonderful/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/wonderful/</guid>
+      <guid>/blog/posts/post/wonderful/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
@@ -62,10 +62,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/posts/post/getting-started-with-hugo/</link>
+      <link>/blog/posts/post/getting-started-with-hugo/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/getting-started-with-hugo/</guid>
+      <guid>/blog/posts/post/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -76,20 +76,20 @@ Follow the following steps:
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/posts/post/hugo-template-primer/</link>
+      <link>/blog/posts/post/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/hugo-template-primer/</guid>
+      <guid>/blog/posts/post/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/post/migrate-to-hugo-from-jekyll/</link>
+      <link>/blog/posts/post/migrate-to-hugo-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/migrate-to-hugo-from-jekyll/</guid>
+      <guid>/blog/posts/post/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -97,10 +97,10 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>Colenak</title>
-      <link>/posts/post/colenak/</link>
+      <link>/blog/posts/post/colenak/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/colenak/</guid>
+      <guid>/blog/posts/post/colenak/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
