@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/post/awesomeness/</loc>
+    <loc>/posts/post/creating-a-new-theme/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post/awesomeness/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/first-post/</loc>
+    <loc>/posts/post/first-post/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/wonderful/</loc>
+    <loc>/posts/post/wonderful/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,28 +28,28 @@
   </url>
   
   <url>
-    <loc>/blog/post/getting-started-with-hugo/</loc>
+    <loc>/posts/post/getting-started-with-hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/hugo-template-primer/</loc>
+    <loc>/posts/post/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/migrate-to-hugo-from-jekyll/</loc>
+    <loc>/posts/post/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/colenak/</loc>
+    <loc>/posts/post/colenak/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,7 +102,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
