@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Development</title>
       <link>/tags/development/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Go</title>
       <link>/tags/go/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/go/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Golang</title>
       <link>/tags/golang/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/golang/</guid>
       <description></description>
@@ -48,9 +48,18 @@
     </item>
     
     <item>
+      <title>Personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Templates</title>
       <link>/tags/templates/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/templates/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>Themes</title>
       <link>/tags/themes/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/themes/</guid>
       <description></description>
