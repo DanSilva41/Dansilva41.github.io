@@ -66,13 +66,13 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Primeiro Post</title>
-      <link>/posts/post/primeiro-post/</link>
+      <title>Primeiro Post: Subindo uma aplicação Spring Boot no Heroku</title>
+      <link>/posts/post/primeiro-post-subindo-uma-aplica%C3%A7%C3%A3o-spring-boot-no-heroku/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post/primeiro-post/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>/posts/post/primeiro-post-subindo-uma-aplica%C3%A7%C3%A3o-spring-boot-no-heroku/</guid>
+      <description>Introdução O Spring Boot esta cada vez mais sendo adotado por programadores pela sua facilidade e rapidez em criar um projeto java Spring de uma forma muito simplificada.
+Para iniciar um projeto Spring Boot, basta acessar o site spring-io e criar o projeto, escolhendo o artifactId, groupId, selecionando o tipo de projeto, projeto Maven ou Gradlee e, as dependências que seu projeto irá precisar inicialmente. Depois de gerar o projeto, basta descompactá-lo em algum diretório e importá-lo para o Eclipse.</description>
     </item>
     
     <item>
